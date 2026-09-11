@@ -10,7 +10,7 @@
 ## 安装
 
 1. 安装 [Tampermonkey（篡改猴）](https://www.tampermonkey.net/)
-2. 打开 [aa-leaderboard-rank.user.js](https://raw.githubusercontent.com/guanyme/aa-leaderboard-rank/main/aa-leaderboard-rank.user.js)，确认安装
+2. 从 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/595337-aa-leaderboard-rank) 安装，或打开 [aa-leaderboard-rank.user.js](https://raw.githubusercontent.com/guanyme/aa-leaderboard-rank/main/aa-leaderboard-rank.user.js)，确认安装
 
 在 Chrome 中需要先到 Tampermonkey 的扩展详情里打开「允许用户脚本」。
 
