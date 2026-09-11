@@ -10,7 +10,7 @@
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Open [aa-leaderboard-rank.user.js](https://raw.githubusercontent.com/guanyme/aa-leaderboard-rank/main/aa-leaderboard-rank.user.js) and confirm the install
+2. Install it from [Greasy Fork](https://greasyfork.org/scripts/595337-aa-leaderboard-rank), or open [aa-leaderboard-rank.user.js](https://raw.githubusercontent.com/guanyme/aa-leaderboard-rank/main/aa-leaderboard-rank.user.js) and confirm the install
 
 On Chrome, turn on **Allow User Scripts** in Tampermonkey's extension details first.
 
