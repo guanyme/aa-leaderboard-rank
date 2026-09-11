@@ -16,7 +16,7 @@ On Chrome, turn on **Allow User Scripts** in Tampermonkey's extension details fi
 
 ## Usage
 
-Open the [LLM leaderboard](https://artificialanalysis.ai/leaderboards/models) (any locale, e.g. `/en/leaderboards/models`). Every model gets a rank number in front of its name, with the top three in gold, silver and bronze.
+Open the [LLM leaderboard](https://artificialanalysis.ai/leaderboards/models) (`/leaderboards/models`, localized paths work too). Every model gets a rank number in front of its name, with the top three in gold, silver and bronze.
 
 ### Ranking
 
